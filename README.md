@@ -1,6 +1,8 @@
 # Chinese_OCR_2020
 ### T-Brain 繁體中文手寫影像辨識 OCR 競賽   
 將目標 formulate 為***影像分類以***及 ***Out-of-Distribution/Open Set*** 辨識問題。  
+   
+技術文章分享：https://link.medium.com/IvTEr7QP9hb
   
 針對影像分類問題採用 Pre-trained 模型搭配對抗式網路架構用以減少不同書寫 風格造成分類上的困難；針對 OOD 問題則採用 Temperature Scaling 機制與 Outlier Exposure 方法設法使模型能分辨出從未出現在訓練集中的資料。
 

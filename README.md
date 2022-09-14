@@ -10,5 +10,7 @@
 Soving Chinese OCR problem by formulating it to classic image classification problem and Out-of-Distribution problem.  
 ''Energy-based Out-of-distribution Detection'' is adopted to differentiate the image that has never appeared in training set.
 
+Link to the technical sharing blog post: https://link.medium.com/IvTEr7QP9hb
+
 ## Method of Energy Score
 ![image](https://user-images.githubusercontent.com/36630295/125031595-73bbe080-e0bf-11eb-9c9c-f4351e7b648e.png)
